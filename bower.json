@@ -1,0 +1,28 @@
+{
+  "name": "deep-app",
+  "version": "0.1.0",
+  "homepage": "https://github.com/deepjs/deep-app",
+  "authors": [
+    "Gilles Coomans <gilles.coomans@gmail.com>"
+  ],
+  "description": "isomorphic app management tools for deepjs",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "keywords": [
+    "login",
+    "logout",
+    "session",
+    "isomorphic",
+    "deepjs"
+  ],
+  "license": "LGPL 3.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
