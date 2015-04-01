@@ -7,7 +7,7 @@ define(['require', 'deepjs', '../lib/browser/app'], function(require, deep, auto
 
     //_______________________________________________________________ GENERIC STORE TEST CASES
     var unit = {
-        title: 'js::deep-login/tests/concurrent',
+        title: 'req::deep-login/tests/concurrent',
         stopOnError: false,
         setup: function() {
             var loggedIn = function(session) {
